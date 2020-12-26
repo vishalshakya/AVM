@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+  }
+
+.home{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/piron-guillaume-U4FyCp3-KzY-unsplash.jpg)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+    padding: 230px ;
+}
+.Cardiology{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/heart-cardiac-career-billboard-rate.jpg)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}
+.Neurology{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/gettyimages-1178748273-170667a.jpg)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}
+.orthopedics{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/newfp_3.jpg)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}
+.Dental{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/happy-dental-patient.jpg)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}
+.IVF{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/IVF-Fertilization.jpg)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}
+.urology{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/urology.jpg)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}
+.Kidney{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/Kidney.jpg)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}
+.Surgery{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/Surgery.png)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}
+.rehabilitation{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/rehabilitationn.png)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+   padding: 150px;
+}

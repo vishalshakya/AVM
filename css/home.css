@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background: url(../image/drew-beamer-kUHfMW8awpE-unsplash.jpg) no-repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.home {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
+    url(../image/99-998859_background-image-for-hospital.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width: 100%;
+  padding: 230px;
+}
+hr {
+  width: 10%;
+  border-width: 4px;
+  background-color: brown;
+  margin: auto;
+  margin-bottom: 100px;
+}
+.doctor {
+  background: url(../image/83fb95c11db522ec6fc17d6af58d96d5.jpg);
+  padding: 20px;
+  background-attachment: fixed;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.contact {
+  background: url(../image/sigmund-K7pHIRgn7iw-unsplash.jpg) no-repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.footerr li {
+  list-style: none;
+}
+.footerr li a {
+  color: #97a4b0;
+  text-decoration: none;
+}
+.footerr li a:hover {
+  color: white;
+}
+.imgg {
+  opacity: 1;
+}

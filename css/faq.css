@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+  }
+
+.home{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(../image/25-of-the-Best-Examples-of-Effective-FAQ-Pages-1520x800.png)no-repeat;
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+    padding: 230px ;
+}
